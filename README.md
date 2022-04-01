@@ -4,7 +4,7 @@ This module provides a node API for notifications on Mac OS X.
 
 ## Demo Preview
 
-![demo](https://images.cnblogs.com/cnblogs_com/zt123123/2136739/o_220401114138_demo.gif)
+![demo](https://images.cnblogs.com/cnblogs_com/zt123123/2136739/o_220401144900_demo.gif)
 
 ## Installation
 
