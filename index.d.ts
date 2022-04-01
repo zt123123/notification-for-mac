@@ -40,6 +40,6 @@ interface NotificationOptions {
  * options.execute   A shell command to perform when the user clicks the notification.
  */
 declare function notify(message: string);
-declare function notify(options: NotificationOptions);
+declare function notify(message: string, options: NotificationOptions);
 
 export = notify;
