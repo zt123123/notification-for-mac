@@ -1,6 +1,6 @@
 {
   "name": "notification-for-mac",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "This module provides a node API for notifications on Mac OS X.",
   "main": "index.js",
   "scripts": {
