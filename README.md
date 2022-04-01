@@ -27,4 +27,4 @@ Pass an object as the second argument to set additional options:
 - title The notification title. Defaults to "".
 - subtitle The notification subtitle. Defaults to "".
 - message The notification message. Defaults to "".
-- sound The notification sound. Defaults to "Frog".
+- sound The notification sound. Defaults to "default". Sound names are listed in /System/Library/Sounds.

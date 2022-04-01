@@ -12,7 +12,7 @@ interface NotificationOptions {
    */
   subtitle?: string;
   /**
-   * The notification sound. Defaults to "Frog".
+   * The notification sound. Defaults to "default". Sound names are listed in /System/Library/Sounds.
    */
   sound?: string;
 }

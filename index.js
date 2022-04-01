@@ -9,7 +9,7 @@ function notify(param) {
     message: '',
     title: '',
     subtitle: '',
-    sound: 'Frog'
+    sound: 'default'
   }
   if (typeof param === "string") {
     options.message = param
