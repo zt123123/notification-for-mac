@@ -2,6 +2,10 @@
 
 This module provides a node API for notifications on Mac OS X.
 
+## Demo Preview
+
+![demo](https://images.cnblogs.com/cnblogs_com/zt123123/2136739/o_220401114138_demo.gif)
+
 ## Installation
 
 ```shell
@@ -15,10 +19,11 @@ const notifier = require("notification-for-mac");
 
 notifier("Hello World!!!");
 
-notifier({
-  title: "Title",
-  subtitle: "subtitle",
-  message: "message",
+notifier("Click me to npm🚀", {
+  title: "Hi! I am title",
+  subtitle: "I am subtitle😊",
+  sound: "Frog",
+  open: "https://www.npmjs.com/package/notification-for-mac",
 });
 ```
 
